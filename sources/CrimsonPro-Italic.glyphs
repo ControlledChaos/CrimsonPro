@@ -29,6 +29,16 @@ value = 1;
 {
 name = "Axis Mappings";
 value = {
+wght = {
+0 = 200;
+88 = 300;
+211 = 400;
+351 = 500;
+509 = 600;
+675 = 700;
+848 = 800;
+1000 = 900;
+};
 };
 },
 {
@@ -202450,5 +202460,5 @@ manufacturer = "Baron von Fonthausen";
 manufacturerURL = "http://www.baronvonfonthausen.com/";
 unitsPerEm = 1024;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
