@@ -111715,6 +111715,52 @@ width = 0;
 unicode = 0;
 },
 {
+glyphname = lineseparator;
+lastChange = "2026-04-23 15:29:11 +0000";
+layers = (
+{
+layerId = "D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD";
+width = 600;
+},
+{
+layerId = "85CE6143-0F67-4312-9B0C-EA9B91F40089";
+width = 600;
+},
+{
+layerId = "925D3525-5003-4FA1-BE98-2BABE6F3DA5C";
+width = 600;
+},
+{
+layerId = "24976ABE-9171-461B-B338-52EF76BD92C7";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2026-04-23 15:29:11 +0000";
+layers = (
+{
+layerId = "D9A1C40A-2361-406B-8D3E-8FA7FBCB82BD";
+width = 600;
+},
+{
+layerId = "85CE6143-0F67-4312-9B0C-EA9B91F40089";
+width = 600;
+},
+{
+layerId = "925D3525-5003-4FA1-BE98-2BABE6F3DA5C";
+width = 600;
+},
+{
+layerId = "24976ABE-9171-461B-B338-52EF76BD92C7";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 glyphname = "leftanglebracket-math";
 lastChange = "2021-06-22 16:49:23 +0000";
 layers = (
