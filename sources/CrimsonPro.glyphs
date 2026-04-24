@@ -1,6 +1,11 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"ĿL/periodcentered.loclCAT.case L
+ŀ/periodcentered.loclCAT 
+ll/periodcentered.loclCAT l"
+);
 axes = (
 {
 name = Weight;
@@ -15850,7 +15855,7 @@ unicode = 310;
 glyphname = L;
 kernLeft = H;
 kernRight = L;
-lastChange = "2021-06-22 16:48:23 +0000";
+lastChange = "2026-04-24 09:07:47 +0000";
 layers = (
 {
 anchors = (
@@ -16598,7 +16603,7 @@ unicode = 315;
 glyphname = Ldot;
 kernLeft = H;
 kernRight = L;
-lastChange = "2021-06-22 16:49:14 +0000";
+lastChange = "2026-04-24 09:04:42 +0000";
 layers = (
 {
 background = {
@@ -16618,7 +16623,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (27,-104);
+pos = (27,-4);
 ref = periodcentered.loclCAT.case;
 }
 );
@@ -16642,7 +16647,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (115,99);
+pos = (115,2);
 ref = periodcentered.loclCAT.case;
 }
 );
@@ -16668,7 +16673,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (46,-58);
+pos = (46,-7);
 ref = periodcentered.loclCAT.case;
 }
 );
@@ -51935,7 +51940,7 @@ unicode = 312;
 glyphname = l;
 kernLeft = l;
 kernRight = l;
-lastChange = "2021-06-22 16:48:23 +0000";
+lastChange = "2026-04-24 09:08:01 +0000";
 layers = (
 {
 anchors = (
@@ -72462,7 +72467,7 @@ note = j;
 {
 color = 0;
 glyphname = jdotless.alt;
-lastChange = "2021-06-22 16:48:23 +0000";
+lastChange = "2026-04-24 08:58:19 +0000";
 layers = (
 {
 anchors = (
@@ -72553,9 +72558,9 @@ shapes = (
 closed = 1;
 nodes = (
 (93,-228,o),
-(154,-155,o),
-(154,-24,c),
-(153,296,l),
+(153,-155,o),
+(153,-24,cs),
+(153,296,ls),
 (153,353,o),
 (155,386,o),
 (158,419,c),
@@ -72566,8 +72571,8 @@ nodes = (
 (96,353,o),
 (102,309,o),
 (102,249,cs),
-(101,-69,l),
-(101,-163,o),
+(102,-69,ls),
+(102,-163,o),
 (61,-201,o),
 (18,-199,c),
 (32,-207,l),
@@ -101456,7 +101461,7 @@ unicode = 92;
 },
 {
 glyphname = periodcentered.loclCAT;
-lastChange = "2021-06-22 16:48:23 +0000";
+lastChange = "2026-04-24 09:08:05 +0000";
 layers = (
 {
 anchors = (
@@ -101632,13 +101637,13 @@ width = 600;
 },
 {
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2021-06-22 16:48:23 +0000";
+lastChange = "2026-04-24 09:07:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = _dotacc;
-pos = (300,424);
+pos = (300,324);
 }
 );
 background = {
@@ -101673,18 +101678,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(322,383,o),
-(343,399,o),
-(343,424,cs),
-(343,449,o),
-(322,466,o),
-(301,466,cs),
-(279,466,o),
-(257,449,o),
-(257,424,cs),
-(257,399,o),
-(279,383,o),
-(301,383,cs)
+(322,283,o),
+(343,299,o),
+(343,324,cs),
+(343,349,o),
+(322,366,o),
+(301,366,cs),
+(279,366,o),
+(257,349,o),
+(257,324,cs),
+(257,299,o),
+(279,283,o),
+(301,283,cs)
 );
 }
 );
@@ -101694,7 +101699,7 @@ width = 600;
 anchors = (
 {
 name = _dotacc;
-pos = (300,221);
+pos = (300,318);
 }
 );
 background = {
@@ -101729,18 +101734,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(361,134,o),
-(392,177,o),
-(392,221,cs),
-(392,266,o),
-(361,307,o),
-(301,307,cs),
-(240,307,o),
-(208,266,o),
-(208,221,cs),
-(208,177,o),
-(240,134,o),
-(301,134,cs)
+(361,231,o),
+(392,274,o),
+(392,318,cs),
+(392,363,o),
+(361,404,o),
+(301,404,cs),
+(240,404,o),
+(208,363,o),
+(208,318,cs),
+(208,274,o),
+(240,231,o),
+(301,231,cs)
 );
 }
 );
@@ -101779,7 +101784,7 @@ width = 600;
 anchors = (
 {
 name = _dotacc;
-pos = (300,378.002);
+pos = (300,327);
 }
 );
 layerId = "A0F5A844-D88E-40D3-8473-9812906C4A28";
@@ -101787,18 +101792,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(331,326,o),
-(354,348,o),
-(354,378,cs),
-(354,407,o),
-(331,430,o),
-(301,430,cs),
-(270,430,o),
-(246,407,o),
-(246,378,cs),
-(246,348,o),
-(270,326,o),
-(301,326,cs)
+(331,275,o),
+(354,297,o),
+(354,327,cs),
+(354,356,o),
+(331,379,o),
+(301,379,cs),
+(270,379,o),
+(246,356,o),
+(246,327,cs),
+(246,297,o),
+(270,275,o),
+(301,275,cs)
 );
 }
 );
@@ -173682,6 +173687,7 @@ underscore = 15;
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -20;
 "@MMK_R_zeroL" = -5;
+periodcentered.loclCAT.case = -465;
 };
 "@MMK_L_LiraT" = {
 "@MMK_R_asterisk" = -30;
@@ -175403,6 +175409,7 @@ underscore = 20;
 "@MMK_L_l" = {
 "@MMK_R_slash" = -20;
 "@MMK_R_threeL" = -7;
+periodcentered.loclCAT = -290;
 };
 "@MMK_L_lcaron" = {
 "@MMK_R_asterisk" = 27;
@@ -176764,6 +176771,12 @@ ohornhookabove = {
 ohorntilde = {
 "@MMK_R_degree" = 10;
 };
+periodcentered.loclCAT = {
+"@MMK_R_l" = -290;
+};
+periodcentered.loclCAT.case = {
+"@MMK_R_H" = -135;
+};
 semicolon = {
 "@MMK_R_J" = 7;
 };
@@ -177235,6 +177248,7 @@ underscore = 20;
 "@MMK_R_x" = -2;
 "@MMK_R_z" = -2;
 "@MMK_R_zeroL" = -5;
+periodcentered.loclCAT.case = -460;
 };
 "@MMK_L_LiraT" = {
 "@MMK_R_asterisk" = -30;
@@ -178979,6 +178993,7 @@ underscore = 20;
 "@MMK_L_l" = {
 "@MMK_R_slash" = -20;
 "@MMK_R_threeL" = -5;
+periodcentered.loclCAT = -270;
 };
 "@MMK_L_lcaron" = {
 "@MMK_R_asterisk" = 49;
@@ -180406,6 +180421,12 @@ ohornhookabove = {
 ohorntilde = {
 "@MMK_R_degree" = 10;
 };
+periodcentered.loclCAT = {
+"@MMK_R_l" = -260;
+};
+periodcentered.loclCAT.case = {
+"@MMK_R_H" = -150;
+};
 semicolon = {
 "@MMK_R_J" = 24;
 };
@@ -180878,6 +180899,7 @@ underscore = 26;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = -5;
 "@MMK_R_zeroL" = -5;
+periodcentered.loclCAT.case = -465;
 };
 "@MMK_L_LiraT" = {
 "@MMK_R_asterisk" = -30;
@@ -182619,6 +182641,7 @@ underscore = 20;
 "@MMK_L_l" = {
 "@MMK_R_slash" = -20;
 "@MMK_R_threeL" = -2;
+periodcentered.loclCAT = -275;
 };
 "@MMK_L_lcaron" = {
 "@MMK_R_asterisk" = 78;
@@ -184042,6 +184065,12 @@ ohornhookabove = {
 ohorntilde = {
 "@MMK_R_degree" = 10;
 };
+periodcentered.loclCAT = {
+"@MMK_R_l" = -265;
+};
+periodcentered.loclCAT.case = {
+"@MMK_R_H" = -145;
+};
 semicolon = {
 "@MMK_R_J" = 48;
 };
@@ -184516,6 +184545,7 @@ underscore = 36;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
 "@MMK_R_zeroL" = -5;
+periodcentered.loclCAT.case = -470;
 };
 "@MMK_L_LiraT" = {
 "@MMK_R_asterisk" = -30;
@@ -186244,6 +186274,7 @@ underscore = 20;
 "@MMK_L_l" = {
 "@MMK_R_slash" = -20;
 "@MMK_R_threeL" = 3;
+periodcentered.loclCAT = -255;
 };
 "@MMK_L_lcaron" = {
 "@MMK_R_asterisk" = 129;
@@ -187664,6 +187695,12 @@ ohornhookabove = {
 };
 ohorntilde = {
 "@MMK_R_degree" = 10;
+};
+periodcentered.loclCAT = {
+"@MMK_R_l" = -245;
+};
+periodcentered.loclCAT.case = {
+"@MMK_R_H" = -130;
 };
 semicolon = {
 "@MMK_R_J" = 79;
