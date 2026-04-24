@@ -5,6 +5,7 @@ axisOrder:
   - wght
   - ital
 familyName: "Crimson Pro"
+cleanUp: true
 stat:
     CrimsonPro[wght].ttf:
     - name: Weight
