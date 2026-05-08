@@ -1,6 +1,9 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"₲"
+);
 axes = (
 {
 name = Weight;
@@ -128277,7 +128280,7 @@ color = 6;
 glyphname = guarani;
 kernLeft = O;
 kernRight = G;
-lastChange = "2026-05-08 10:12:05 +0000";
+lastChange = "2026-05-08 10:25:53 +0000";
 layers = (
 {
 background = {
@@ -129147,10 +129150,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(324,-116,l),
 (371,-116,l),
 (371,18,l),
-(324,18,l)
+(324,18,l),
+(324,-116,l)
 );
 },
 {
